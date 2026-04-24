@@ -8,8 +8,6 @@ theme = 'PaperMod'
   description = "Notes from a data engineer"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
-  ShowShareButtons = false
-  defaultTheme = 'auto'
   
 [markup.highlight]
   style = 'github-dark'
