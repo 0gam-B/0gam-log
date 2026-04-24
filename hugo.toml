@@ -1,0 +1,17 @@
+baseURL = 'https://0gam-B.github.io/0gam-log/'
+languageCode = 'en-us'
+title = '0gam-log'
+theme = 'PaperMod'
+
+[params]
+  author = '0gam'
+  description = "Notes from a data engineer"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = false
+  defaultTheme = 'auto'
+  
+[markup.highlight]
+  style = 'github-dark'
+  lineNos = true
+  codeFences = true
