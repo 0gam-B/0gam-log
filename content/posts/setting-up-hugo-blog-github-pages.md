@@ -1,5 +1,5 @@
 +++
-date = '2026-04-24T23:30:00+09:00'
+date = '2026-04-24T09:00:00+09:00'
 draft = false
 title = 'Setting up a Hugo blog on GitHub Pages: what I learned the hard way'
 tags = ['hugo', 'github-pages', 'github-actions', 'blogging']
